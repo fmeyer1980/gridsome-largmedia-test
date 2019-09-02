@@ -2,6 +2,7 @@
   <Layout>
     
     <h1>Hello, world!</h1>
+    <img src="../assets/images/hero.jpg" alt="">
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
     </p>
